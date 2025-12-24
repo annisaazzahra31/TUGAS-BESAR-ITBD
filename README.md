@@ -49,3 +49,8 @@ https://www.kaggle.com/datasets/smayanj/e-commerce-transactions-dataset
 5. **Machine Learning** -> Menggunakan **K-Means Clustering**
 7. **Visualisasi**
 
+## Hasil Singkat
+1. Terlihat tren peningkatan transaksi per tahun
+2. Kontribusi _revenue_ antar kategori relatif merata
+3. Pelanggan tersebar di berbagai negara
+4. Segmentasi pelanggan berhasil membedakan perilaku belanja
